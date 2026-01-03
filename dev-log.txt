@@ -1,0 +1,76 @@
+2026-01-03T09:15:00: Initial project setup with Vite and React
+2026-01-03T09:45:00: Installed TailwindCSS and configured theme
+2026-01-03T10:30:00: Added Framer Motion and React Icons dependencies
+2026-01-03T11:20:00: Created basic directory structure for components
+2026-01-03T14:10:00: Setup global CSS variables and font imports
+2026-01-03T16:00:00: Implemented Navbar component structure
+2026-01-04T09:30:00: Added responsive styling to Navbar
+2026-01-04T11:00:00: Started work on Hero section
+2026-01-04T12:30:00: Added background animations to Hero
+2026-01-04T14:45:00: Refined Hero text typography and spacing
+2026-01-04T16:15:00: Created Projects component layout
+2026-01-04T17:30:00: Added project data array structure
+2026-01-05T09:15:00: Implemented card hover effects using Framer Motion
+2026-01-05T10:45:00: Integrated video assets into public folder
+2026-01-05T13:00:00: Built Video Modal component for animation previews
+2026-01-05T14:20:00: Added logic for video auto-play on hover
+2026-01-05T15:45:00: Fixed z-index issues with modal overlay
+2026-01-05T17:00:00: Added Contact section component
+2026-01-06T09:30:00: Styled Contact section and footer
+2026-01-06T11:00:00: Added LinkedIn integration
+2026-01-06T12:15:00: Updated project links for Prime Meridian
+2026-01-06T13:45:00: Added Rinse and Repeat short film to gallery
+2026-01-06T15:00:00: Final polish on mobile responsiveness
+2026-01-06T16:00:00: Cleaned up unused imports
+2026-01-06T17:00:00: Ready for deployment
+2026-01-03T09:15:00: Initial project setup with Vite and React
+2026-01-03T09:45:00: Installed TailwindCSS and configured theme
+2026-01-03T10:30:00: Added Framer Motion and React Icons dependencies
+2026-01-03T11:20:00: Created basic directory structure for components
+2026-01-03T14:10:00: Setup global CSS variables and font imports
+2026-01-03T16:00:00: Implemented Navbar component structure
+2026-01-04T09:30:00: Added responsive styling to Navbar
+2026-01-04T11:00:00: Started work on Hero section
+2026-01-04T12:30:00: Added background animations to Hero
+2026-01-04T14:45:00: Refined Hero text typography and spacing
+2026-01-04T16:15:00: Created Projects component layout
+2026-01-04T17:30:00: Added project data array structure
+2026-01-05T09:15:00: Implemented card hover effects using Framer Motion
+2026-01-05T10:45:00: Integrated video assets into public folder
+2026-01-05T13:00:00: Built Video Modal component for animation previews
+2026-01-05T14:20:00: Added logic for video auto-play on hover
+2026-01-05T15:45:00: Fixed z-index issues with modal overlay
+2026-01-05T17:00:00: Added Contact section component
+2026-01-06T09:30:00: Styled Contact section and footer
+2026-01-06T11:00:00: Added LinkedIn integration
+2026-01-06T12:15:00: Updated project links for Prime Meridian
+2026-01-06T13:45:00: Added Rinse and Repeat short film to gallery
+2026-01-06T15:00:00: Final polish on mobile responsiveness
+2026-01-06T16:00:00: Cleaned up unused imports
+2026-01-06T17:00:00: Ready for deployment
+2026-01-03T09:15:00: Initial project setup with Vite and React
+2026-01-03T09:45:00: Installed TailwindCSS and configured theme
+2026-01-03T10:30:00: Added Framer Motion and React Icons dependencies
+2026-01-03T11:20:00: Created basic directory structure for components
+2026-01-03T14:10:00: Setup global CSS variables and font imports
+2026-01-03T16:00:00: Implemented Navbar component structure
+2026-01-04T09:30:00: Added responsive styling to Navbar
+2026-01-04T11:00:00: Started work on Hero section
+2026-01-04T12:30:00: Added background animations to Hero
+2026-01-04T14:45:00: Refined Hero text typography and spacing
+2026-01-04T16:15:00: Created Projects component layout
+2026-01-04T17:30:00: Added project data array structure
+2026-01-05T09:15:00: Implemented card hover effects using Framer Motion
+2026-01-05T10:45:00: Integrated video assets into public folder
+2026-01-05T13:00:00: Built Video Modal component for animation previews
+2026-01-05T14:20:00: Added logic for video auto-play on hover
+2026-01-05T15:45:00: Fixed z-index issues with modal overlay
+2026-01-05T17:00:00: Added Contact section component
+2026-01-06T09:30:00: Styled Contact section and footer
+2026-01-06T11:00:00: Added LinkedIn integration
+2026-01-06T12:15:00: Updated project links for Prime Meridian
+2026-01-06T13:45:00: Added Rinse and Repeat short film to gallery
+2026-01-06T15:00:00: Final polish on mobile responsiveness
+2026-01-06T16:00:00: Cleaned up unused imports
+2026-01-06T17:00:00: Ready for deployment
+2026-01-03T09:15:00: Initial project setup with Vite and React
