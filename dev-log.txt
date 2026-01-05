@@ -87,3 +87,4 @@
 2026-01-04T17:30:00: Added project data array structure
 2026-01-05T09:15:00: Implemented card hover effects using Framer Motion
 2026-01-05T10:45:00: Integrated video assets into public folder
+2026-01-05T13:00:00: Built Video Modal component for animation previews
