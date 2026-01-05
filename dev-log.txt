@@ -88,3 +88,4 @@
 2026-01-05T09:15:00: Implemented card hover effects using Framer Motion
 2026-01-05T10:45:00: Integrated video assets into public folder
 2026-01-05T13:00:00: Built Video Modal component for animation previews
+2026-01-05T14:20:00: Added logic for video auto-play on hover
